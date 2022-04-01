@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: me.aushot.Exchpscppbot.Main.Main
+Class-Path: json-simple-1.1.1.jar gson-2.8.2.jar
+
