@@ -41,7 +41,7 @@ public class Exchangebot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "1067649447:AAFBAN2bajlIORbPEsoxj89gsLCYnXkBX_g";
+        return "putyourtokenhere";
     }
     
     public void onUpdateReceived(Update update) {

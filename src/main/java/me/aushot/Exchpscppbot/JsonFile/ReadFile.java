@@ -16,7 +16,7 @@ public class ReadFile extends Utils {
     private Exchangebot exchangebot;
     JSONParser parser = new JSONParser();
 
-    JSONArray a = (JSONArray) parser.parse(new FileReader("/home/ubuntu/data.json"));
+    JSONArray a = (JSONArray) parser.parse(new FileReader("changedirectoryhere"));
 
     public ReadFile(Exchangebot exchangebot) throws IOException, ParseException {
         this.exchangebot = exchangebot;
